@@ -1,0 +1,35 @@
+{
+  "name": "ass-1_inception",
+  "version": "1.0.0",
+  "description": "Inception Assignment-1",
+  
+  "scripts": {
+    "start":"parcel HelloReact.html",
+    "build":"parcel build HelloReact.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NayanaLalitha67/React_Inception_ASS1.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "LALITHA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NayanaLalitha67/React_Inception_ASS1/issues"
+  },
+  "homepage": "https://github.com/NayanaLalitha67/React_Inception_ASS1#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "browserlist":[
+    "last 2 chrome version",
+    " last 2 edge version"
+  ]
+}
